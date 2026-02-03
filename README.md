@@ -2,7 +2,7 @@
 
 ## I'm Dilip
 
-I’m an *
+I’m trying to learn Python programming.
 ---
 
 ## 🚀 Popular Projects & Impact
