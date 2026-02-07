@@ -1,6 +1,6 @@
 # Hi 👋 Welcome
 
-## I'm Dilip
+## I'm Dilip Gurung
 
 I’m trying to learn Python programming.
 ---
